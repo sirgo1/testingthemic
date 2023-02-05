@@ -1,1 +1,6 @@
 print(2 + 4) 
+s <- seq(1:4)
+mean(s)
+t = c(2,3,4,5,6,4)
+median(t)
+mean(t)
